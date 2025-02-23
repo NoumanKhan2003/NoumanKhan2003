@@ -11,7 +11,6 @@ API Development & Integration
 Experience:
 As the Technical Head at E-Cell DCRUST, I lead technical initiatives, develop web solutions, and mentor fellow students in web development and emerging technologies.
 
-Contact:
 Feel free to connect with me on:
 LinkedIn: (https://www.linkedin.com/in/nouman-khan-95923a256)
 Email: noumankhan16859@gmail.com
